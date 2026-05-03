@@ -4,7 +4,7 @@
  Hi, I'm Swathy Prathapan 
 
 **Bioinformatician** at NIMHANS, Bangalore  
-Psychiatric genomics · WES/GWAS · R · Python · Clinical data
+Genomics · WES/GWAS · R · Python · Clinical data
 
 ## What I work on
 - Whole-exome sequencing pipelines 

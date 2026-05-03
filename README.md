@@ -15,7 +15,7 @@ Psychiatric genomics · WES/GWAS · R · Python · Clinical data
 to a formatted Excel report.
 
 ## Tools & languages
-`R` `Python` `Bash` `MySQL` `Snakemake` `PLINK` `GATK`
+`R` `Python` `Bash` `MySQL` `Snakemake` `PLINK` `GCTA` `REGENIE` `HAIL` `GATK` `ANNOVAR` `VEP` `Snakemake`
 
 ## Recent training
 BGE Workshop — Harvard T.H. Chan / Broad Institute (2026)
